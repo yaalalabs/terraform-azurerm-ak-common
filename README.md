@@ -252,4 +252,5 @@ This is a registry-compatible root module that contains no resources itself. All
 - **Registry compatibility**: Conforms to Terraform registry requirements
 - **Namespace isolation**: Clean module paths via `//modules/<name>` syntax
 
+
 **Important**: Always reference modules using the `../common/modules/<module-name>` syntax as shown in the usage examples above.
